@@ -1,0 +1,31 @@
+{
+  "name": "node-sass-cli",
+  "version": "0.0.0",
+  "description": "Better CLI for node-sass, including watching",
+  "main": "lib/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arian/node-sass-cli.git"
+  },
+  "keywords": [
+    "sass",
+    "cli",
+    "watch",
+    "node-sass",
+    "libsass"
+  ],
+  "author": "Arian Stolwijk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arian/node-sass-cli/issues"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0",
+    "node-sass": "~0.6.4",
+    "colors": "~0.6.2",
+    "watch": "~0.8.0"
+  }
+}
