@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Better CLI for node-sass, including watching",
   "main": "lib/cli.js",
+  "bin": {
+    "sass-cli": "bin/sass-cli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
