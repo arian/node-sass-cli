@@ -1,6 +1,6 @@
 {
   "name": "node-sass-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Better CLI for node-sass, including watching",
   "main": "lib/cli.js",
   "bin": {
